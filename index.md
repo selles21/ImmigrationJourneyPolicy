@@ -1,137 +1,131 @@
-📄 Privacy Policy — Immigration Journey
+# 📄 **Privacy Policy — Immigration Journey**
+**Last updated:** [Insert Today’s Date]
 
-Last updated: [Insert Today’s Date]
-
-Welcome to Immigration Journey.
+Welcome to **Immigration Journey**.  
 This Privacy Policy explains how we handle information and outlines your rights regarding your data.
 
-📘 Table of Contents
+---
 
-Information We Collect
+## 📘 Table of Contents
+1. [Information We Collect](#1-information-we-collect)  
+2. [How We Use This Information](#2-how-we-use-this-information)  
+3. [No Ads](#3-no-ads)  
+4. [Children’s Privacy](#4-childrens-privacy)  
+5. [Third-Party Services](#5-third-party-services)  
+6. [Data Sharing](#6-data-sharing)  
+7. [Data Retention](#7-data-retention)  
+8. [Security](#8-security)  
+9. [Changes to This Privacy Policy](#9-changes-to-this-privacy-policy)  
+10. [Contact Us](#10-contact-us)
 
-How We Use This Information
+---
 
-No Ads
+## 1. Information We Collect
 
-Children’s-Privacy
+In the current version of **Immigration Journey**, **we do not collect any personal information** such as your name, email, contact details, or immigration data.
 
-Third-Party Services
+However, we use Firebase tools that automatically collect **non-personal technical information** to improve app performance and stability.
 
-Data Sharing
-
-Data Retention
-
-Security
-
-Changes to This Privacy Policy
-
-Contact Us
-
-1. Information We Collect
-
-In the current version of Immigration Journey, we do not collect any personal information such as your name, email, contact details, or immigration data.
-
-However, we use Firebase tools that automatically collect non-personal technical information to improve app performance and stability.
-
-1.1 Automatically Collected Data
-
+### 1.1 Automatically Collected Data
 Through Firebase Analytics and Firebase Crashlytics, we may collect:
 
-Device information (model, OS version, system language)
+- Device information (model, OS version, system language)  
+- App usage information (screen views, basic anonymized events)  
+- Crash logs and diagnostic data  
+- Performance information (app speed, errors, etc.)  
 
-App usage information (screen views, basic anonymized events)
+This information **cannot identify you personally**.
 
-Crash logs and diagnostic data
+---
 
-Performance information (app speed, errors, etc.)
-
-This information cannot identify you personally.
-
-2. How We Use This Information
+## 2. How We Use This Information
 
 We use the collected technical information strictly for:
 
-Enhancing app performance
+- Enhancing app performance  
+- Fixing bugs and crashes  
+- Understanding general, anonymous usage patterns  
+- Improving overall user experience  
 
-Fixing bugs and crashes
+We **do not** rent, sell, or share your data for marketing or advertising purposes.
 
-Understanding general, anonymous usage patterns
+---
 
-Improving overall user experience
+## 3. No Ads
 
-We do not rent, sell, or share your data for marketing or advertising purposes.
+Immigration Journey does **not** display ads and does **not** include any advertising SDKs.
 
-3. No Ads
+---
 
-Immigration Journey does not display ads and does not include any advertising SDKs.
+## 4. Children’s Privacy
 
-4. Children’s Privacy
+Immigration Journey is **not intended for children under the age of 13**.
 
-Immigration Journey is not intended for children under the age of 13.
-
-We do not knowingly collect personal information from children.
+We do not knowingly collect personal information from children.  
 If you believe a child has provided personal data through the app, contact us and we will delete it promptly.
 
-5. Third-Party Services
+---
+
+## 5. Third-Party Services
 
 We rely on trusted, widely-used services to maintain app quality:
 
-Firebase Analytics
-
-Used for anonymous usage statistics.
+### Firebase Analytics  
+Used for anonymous usage statistics.  
 Privacy: https://firebase.google.com/policies/analytics
 
-Firebase Crashlytics
-
-Used for crash reporting and stability improvements.
+### Firebase Crashlytics  
+Used for crash reporting and stability improvements.  
 Privacy: https://firebase.google.com/support/privacy#crashlytics
 
-We do not use:
+We do **not** use:
+- Personalized ads  
+- Behavioral tracking  
+- Location data  
+- Third-party marketing SDKs  
 
-Personalized ads
+---
 
-Behavioral tracking
+## 6. Data Sharing
 
-Location data
+We do **not** share any data with third parties except:
 
-Third-party marketing SDKs
+- If required to comply with legal obligations  
+- To investigate misuse or security issues  
+- With your direct consent (not applicable in this version)
 
-6. Data Sharing
+We do **not** sell or rent any user data.
 
-We do not share any data with third parties except:
+---
 
-If required to comply with legal obligations
-
-To investigate misuse or security issues
-
-With your direct consent (not applicable in this version)
-
-We do not sell or rent any user data.
-
-7. Data Retention
+## 7. Data Retention
 
 Firebase retains anonymized analytics and crash data only as long as necessary to:
 
-Maintain app stability
-
-Diagnose issues
-
-Improve performance
+- Maintain app stability  
+- Diagnose issues  
+- Improve performance  
 
 Users may request the deletion of device-associated Firebase data by contacting us.
 
-8. Security
+---
 
-We take reasonable steps to safeguard information handled within the app.
+## 8. Security
+
+We take reasonable steps to safeguard information handled within the app.  
 However, no digital system can guarantee absolute security.
 
-9. Changes to This Privacy Policy
+---
 
-We may update this Privacy Policy from time to time.
+## 9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.  
 The most recent version will always be available on this page.
 
-10. Contact Us
+---
 
-If you have any questions about this Privacy Policy or how information is handled, feel free to contact us:
+## 10. Contact Us
 
-📧 kotlinmpdeveloper@gmail.com
+If you have questions about this Privacy Policy or how information is handled, feel free to contact us:
+
+📧 **kotlinmpdeveloper@gmail.com**
