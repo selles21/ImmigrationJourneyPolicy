@@ -1,107 +1,137 @@
-✅ Privacy Policy for Immigration Journey
+📄 Privacy Policy — Immigration Journey
 
-Privacy Policy
 Last updated: [Insert Today’s Date]
 
-Thank you for using Immigration Journey (“we”, “our”, “the app”).
-This Privacy Policy explains how we handle user information and outlines your rights regarding your data.
+Welcome to Immigration Journey.
+This Privacy Policy explains how we handle information and outlines your rights regarding your data.
+
+📘 Table of Contents
+
+Information We Collect
+
+How We Use This Information
+
+No Ads
+
+Children’s-Privacy
+
+Third-Party Services
+
+Data Sharing
+
+Data Retention
+
+Security
+
+Changes to This Privacy Policy
+
+Contact Us
 
 1. Information We Collect
 
-In the current version of Immigration Journey, we do not collect any personal information such as your name, email, address, phone number, documents, or immigration data.
+In the current version of Immigration Journey, we do not collect any personal information such as your name, email, contact details, or immigration data.
 
-However, we use Firebase tools that automatically collect certain non-personal technical data to help improve app stability and performance.
+However, we use Firebase tools that automatically collect non-personal technical information to improve app performance and stability.
 
 1.1 Automatically Collected Data
 
 Through Firebase Analytics and Firebase Crashlytics, we may collect:
 
-Device information (model, OS version, device language)
+Device information (model, OS version, system language)
 
-App usage information (screens visited, basic event logs)
+App usage information (screen views, basic anonymized events)
 
-Crash reports (stack traces, error logs)
+Crash logs and diagnostic data
 
-Non-identifying app performance metrics
+Performance information (app speed, errors, etc.)
 
-This information cannot identify you and is used only for technical purposes.
+This information cannot identify you personally.
 
 2. How We Use This Information
 
-We use the collected technical data strictly to:
+We use the collected technical information strictly for:
 
-Improve app performance
+Enhancing app performance
 
-Detect and fix bugs
+Fixing bugs and crashes
 
-Understand general usage patterns
+Understanding general, anonymous usage patterns
 
-Keep the app stable and reliable
+Improving overall user experience
 
-We do not sell, rent, or share your data with advertisers or third parties.
+We do not rent, sell, or share your data for marketing or advertising purposes.
 
 3. No Ads
 
-Immigration Journey does not display ads and does not use advertising SDKs.
+Immigration Journey does not display ads and does not include any advertising SDKs.
 
 4. Children’s Privacy
 
-Immigration Journey is not directed to children under the age of 13.
+Immigration Journey is not intended for children under the age of 13.
 
 We do not knowingly collect personal information from children.
-If you believe a child has provided personal information, please contact us and we will delete it immediately.
+If you believe a child has provided personal data through the app, contact us and we will delete it promptly.
 
 5. Third-Party Services
 
-We use the following trusted third-party services:
+We rely on trusted, widely-used services to maintain app quality:
 
 Firebase Analytics
 
-Used for anonymous usage statistics to improve the app.
+Used for anonymous usage statistics.
 Privacy: https://firebase.google.com/policies/analytics
 
 Firebase Crashlytics
 
-Used to collect crash logs to maintain app stability.
+Used for crash reporting and stability improvements.
 Privacy: https://firebase.google.com/support/privacy#crashlytics
-
-These services may collect anonymized data for diagnostic purposes only.
 
 We do not use:
 
-Personalized advertising
+Personalized ads
 
-Device-level tracking
+Behavioral tracking
+
+Location data
 
 Third-party marketing SDKs
 
-Location services
-
 6. Data Sharing
 
-We do not share your data with any individuals, companies, or government entities, unless required by law.
+We do not share any data with third parties except:
 
-We do not share or sell any data for marketing purposes.
+If required to comply with legal obligations
+
+To investigate misuse or security issues
+
+With your direct consent (not applicable in this version)
+
+We do not sell or rent any user data.
 
 7. Data Retention
 
-Automatically collected technical data (crashes, analytics events) is stored securely by Firebase and retained only as long as necessary to support app functionality and debugging.
+Firebase retains anonymized analytics and crash data only as long as necessary to:
 
-You may request deletion of Crashlytics or Analytics data related to your device by contacting us.
+Maintain app stability
+
+Diagnose issues
+
+Improve performance
+
+Users may request the deletion of device-associated Firebase data by contacting us.
 
 8. Security
 
-We take reasonable steps to protect your data, including the use of secure connections and trusted third-party services.
-
-However, no method of electronic storage or transmission is completely secure.
+We take reasonable steps to safeguard information handled within the app.
+However, no digital system can guarantee absolute security.
 
 9. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time.
-Any changes will be posted in the app store listing and on the hosted Privacy Policy page.
+The most recent version will always be available on this page.
 
 10. Contact Us
 
-If you have any questions or concerns about this Privacy Policy or data handling practices, contact us at:
+If you have any questions about this Privacy Policy or how information is handled, feel free to contact us:
 
 📧 kotlinmpdeveloper@gmail.com
