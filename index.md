@@ -1,5 +1,5 @@
 # 📄 **Privacy Policy — Immigration Journey**
-**Last updated:** [Insert Today’s Date]
+**Last updated:** 11/22/2025
 
 Welcome to **Immigration Journey**.  
 This Privacy Policy explains how we handle information and outlines your rights regarding your data.
